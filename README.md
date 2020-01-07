@@ -1,5 +1,5 @@
 # BankaOtomasyonuProjesi
 
-Bu proje banka bilgisayar ortamı ile atm karışımı bir proje oluşturuldu.
-
-mümkün olduğunca yazılım mimarisi kullanılmaya çalışıldı.
+Banka ve atm işlemlerini gerçekleştirdiğimiz bir projedir.
+Üniversite de Nesneye Yönelik Programlama dersi kapsamında gerçekleştirilmiştir.
+Yazılım mühendisliği kural ve metodlarını uygulağımız bir programdır.
